@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mflix8_:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mflix8_</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mflix8_-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mflix8_:war exploded" />
+    </root>
+  </artifact>
+</component>
